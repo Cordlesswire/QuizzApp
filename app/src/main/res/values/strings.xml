@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="instruction">Answer following questions:</string>
+
+    // Questions in quizz
+
+    <string name="question_1">What company created SC2?</string>
+    <string name="question_2">How many races are in SC2?</string>
+    <string name="question_3">Who is leader of Zergs?</string>
+    <string name="question_4">Who is leader of Dominium?</string>
+    <string name="question_5">Who was Tychus?</string>
+    <string name="question_6">Fill the name: Legacy of the...</string>
+    <string name="question_7">Which of the following are Protoss units?</string>
+
+
+    //Answers that might need translation
+    
+    <string name="answer5_officer">Officer</string>
+    <string name="answer5_prisoner">Prisoner</string>
+    <string name="answer5_soldier">Ordinary soldier</string>
+
+    <string name="answer7_zealot">Zealot</string>
+    <string name="answer7_ghost">Ghost</string>
+    <string name="answer7_stalker">Stalker</string>
+
+    // Text on score button
+
+    <string name="button">Show my score!</string>
+
+
+</resources>

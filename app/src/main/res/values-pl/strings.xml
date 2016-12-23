@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="answer5_officer">Oficer</string>
+    <string name="answer5_prisoner">Więzień</string>
+    <string name="answer5_soldier">Żołnierz</string>
+    <string name="answer7_ghost">Duch</string>
+    <string name="answer7_stalker">Tropiciel</string>
+    <string name="answer7_zealot">Zealot</string>
+    <string name="button">Pokaż wynik!</string>
+    <string name="instruction">Odpowiedz na pytania:</string>
+    <string name="question_1">Jaka firma stworzyła SC2?</string>
+    <string name="question_2">Ile jest ras w SC2?</string>
+    <string name="question_3">Kto jest liderem Zergów?</string>
+    <string name="question_4">Kto jest liderem Dominium?</string>
+    <string name="question_5">Kim był Tychus?</string>
+    <string name="question_6">Uzupełnij tytuł: Legacy of the...</string>
+    <string name="question_7">Które jednostki należą do Protossów?</string>
+</resources>
